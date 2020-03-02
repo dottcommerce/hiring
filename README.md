@@ -13,3 +13,11 @@ At Dott we go above and beyond to ensure that everyone is happy at work, and tha
 At Dott we believe that we can help Portuguese companies achieve more through online sales. This includes smaller companies composed of people who have a vision or project, and want to make it grow, just like us. This is the purpose that guides us and where we stand together.
 
 Whoever joins Dott believes in this vision, but also knows that we focus on the people who work in making this happen. They also know that they can grow in a place that makes everyone feel like they belong to a common project.
+
+| Area         | Openings | Position and link to Job Description |
+| ------------ | -------- | --------------- |
+| Engineering  | 1        | QA Analyst
+| Engineering  | 1        | FE Engineer |
+| Engineering  | 1        | BE Engineer |
+
+If you're interested in knowing more about Dott, just send us an [email](mailto:people@dott.pt).
