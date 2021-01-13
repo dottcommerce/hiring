@@ -53,7 +53,8 @@ We are interested in covering **all** months, so if we have zero sales over a mo
 Assume offers have stock on creation time. If we have an offer with the following record:
 | offer_id | stock | created_at | modified_at |
 | - | - | - | - |
-| 1 | 0 | 2020-01-05 | 2020-03-21
+| 1 | 0 | 2020-01-05 | 2020-03-21 |
+
 We can interpret this as: the last date this offer had stock was at 2020-03-21. 
 
 If this was the single offer in the DB, the expected result would look like:
